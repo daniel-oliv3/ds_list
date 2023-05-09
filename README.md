@@ -3,6 +3,17 @@
 ##
 
 
+- Conceitos
+- Sistemas web e recursos
+- Cliente/servidor, HTTP, JSON
+- Padrão Rest para API web
+- Estruturação de projeto Spring Rest
+- Entidades e ORM
+- Database seeding
+- Padrão camadas
+- Controller, service, repository
+- Padrão DTO
+
 
 **Sistemas Web**
 
@@ -36,6 +47,54 @@
   - Código sob demanda (opcional)
 
 - https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api
+
+
+<p align="center">
+  <img alt="...." src="./assets/padronizacao.jpg" width="80%">
+</p>
+
+
+**Padrões Camadas**
+
+
+<p align="center">
+  <img alt="...." src="./assets/camadas.jpg" width="80%">
+</p>
+
+
+
+- Criar projeto / lib Maven
+- Salvar no Github
+- Arquivos Properties, entidade Game, ORM
+- Seed dos games
+- GameMinDTO, GameRepository, GameService, GameController
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
